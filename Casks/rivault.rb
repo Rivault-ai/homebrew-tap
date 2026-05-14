@@ -1,6 +1,6 @@
 cask "rivault" do
-  version "0.3.3"
-  sha256 "8c6bb01107830ca0ab0e8afff530f5468b6eb5bf5b10483aef530284e6a363be"
+  version "0.3.4"
+  sha256 "f262651b1d559d103c517a3061e524a73da25abd24f48b70492f4c437e32d5c0"
 
   url "https://github.com/Rivault-ai/desktop/releases/download/v#{version}/Rivault-darwin.zip"
   name "Rivault"
